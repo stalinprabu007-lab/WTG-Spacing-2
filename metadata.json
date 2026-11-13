@@ -1,0 +1,6 @@
+{
+  "name": "WTG Spacing Tool v1.6",
+  "description": "Wind Turbine Generator (WTG) Spacing Diagram and KMZ Export Tool with Circle, Ellipse, 5Dx7D Rose, and Rectangle spacing models for Google Earth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
